@@ -1,6 +1,6 @@
 # distutils: language = c
 # distutils: sources = ../common/maskApi.c
-
+# cython: language_level=3
 #**************************************************************************
 # Microsoft COCO Toolbox.      version 2.0
 # Data, paper, and tutorials available at:  http://mscoco.org/
